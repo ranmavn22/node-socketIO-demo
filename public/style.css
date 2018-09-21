@@ -1,0 +1,31 @@
+.chatForm{
+    width: 100%;
+    border: 1px solid;
+    min-height: 250px;
+    background: #efefef;
+    display: flex;
+}
+.left h3{
+    margin: 0;
+    line-height: 37px;
+    text-align: center;
+    border-bottom: 1px solid;
+    background: #fff;
+}
+.left ul{
+    padding: 0;
+}
+.left li{
+    padding: 0 20px;
+    list-style: none;
+    line-height: 30px;
+    border-bottom: 1px solid;
+}
+.left{
+    width: 30%;
+    border-right: 1px solid;
+}
+
+#ChatBox{
+    min-height: 250px;
+}
