@@ -25,7 +25,9 @@
     width: 30%;
     border-right: 1px solid;
 }
-
+.right{
+    width: 70%;
+}
 #ChatBox{
     min-height: 250px;
 }
